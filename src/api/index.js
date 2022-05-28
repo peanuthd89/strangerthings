@@ -35,9 +35,7 @@ async function fetchUserData(loginToken) {
 }
 export default BASE_URL;
 export { checkLogin, fetchPosts, fetchUserData };
-white_check_mark
-eyes
-raised_hands
+
 
 
 
